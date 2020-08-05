@@ -1,16 +1,18 @@
-### Hi there 👋
+# Arthur Barreto Rossa
 
-<!--
-**ArthurBarretoR/ArthurBarretoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bem vindo! 😄
+
+Adoro aprender e busco sempre me manter desafiado!   
+Atualmente estou aprendendo front-end e tenho noções de Python.   
+
+
+## O que sei fazer ?
+
+🤓 Estou aprendendo HTML5, CSS e JS.   
+👨🏻‍💻 Take a look!  [Dice Game](https://barretoapp.netlify.app/)   
+💻 [Uma publicação sobre um projeto de aplicativo que estou aprendendo!](https://www.linkedin.com/posts/arthur-barreto-rossa_h%C3%A1-algum-tempo-me-interesso-pela-%C3%A1rea-da-activity-6696809137151492097-PQV0)   
+👋🏽 [Meu Linkedin](www.linkedin.com/in/arthur-barreto-rossa)
+
+⚽️ Curiosidades: Estou no 9º semestre de Engenharia Química na UFRGS. Já trabalhei dando aulas de futevôlei. Sou apaixonado por esportes! 
