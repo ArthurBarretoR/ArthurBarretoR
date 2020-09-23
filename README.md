@@ -11,7 +11,7 @@ Atualmente estou aprendendo front-end e tenho noções de Python.
 ## O que sei fazer ?
 
 🤓 Estou aprendendo HTML5, CSS e JS.   
-👨🏻‍💻 Take a look!  [Dice Game](https://barretoapp.netlify.app/)   
+👨🏻‍💻 Take a look!  [https://snkgame.netlify.app/](https://barretoapp.netlify.app/)   
 💻 [Uma publicação sobre um aplicativo que conecta alunos e professores que estou aprendendo!](https://www.linkedin.com/posts/arthur-barreto-rossa_h%C3%A1-algum-tempo-me-interesso-pela-%C3%A1rea-da-activity-6696809137151492097-PQV0)   
 👋🏽 [Meu Linkedin](www.linkedin.com/in/arthur-barreto-rossa)
 
